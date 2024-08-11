@@ -1,0 +1,38 @@
+h1 {
+    background-color: lightgreen;
+    color: blue;
+    padding: 5px;
+    margin: 0px
+}
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-color: lightseagreen;
+}
+
+.search {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+button:hover {
+    background-color: greenyellow;
+    transition-duration: 1s;
+}
+
+.card1 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border:white;
+}
+
+h2 {
+    color:greenyellow;
+}
